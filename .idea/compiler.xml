@@ -11,7 +11,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="sudalover-backend" target="1.5" />
+      <module name="sudalover-backend" target="1.8" />
       <module name="sudaloverbackend" target="1.5" />
     </bytecodeTargetLevel>
   </component>
